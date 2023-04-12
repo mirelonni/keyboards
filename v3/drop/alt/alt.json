@@ -4,7 +4,7 @@
   "productId": "0xEED3",
   "matrix": {"rows": 5, "cols": 15},
   "keycodes": ["qmk_lighting"],
-  "menus": ["qmk_rgb_matrix"],
+  "menus": ["qmk_rgblight"],
   "layouts": {
     "keymap": [
       [
